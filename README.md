@@ -7,7 +7,7 @@ A inteligência artificial tem o potencial de transformar a forma como interagim
 
 ## O que é este projeto?
 
-Este projeto é um controlador MIDI que utiliza um Arduino (Leonardo ou similar) e um teclado matricial 7x8. Com este controlador, você poderá tocar notas e enviar comandos MIDI para qualquer software ou hardware compatível, proporcionando uma experiência musical mais dinâmica e interativa.
+Este projeto é um controlador MIDI que utiliza um Arduino (Leonardo ATmega32U4 ou similar) e um teclado matricial 7x8 ou uma conexão com DB15 fêmea e macho usando fios. Com este controlador, você poderá tocar notas e enviar comandos MIDI para qualquer software ou hardware compatível, proporcionando uma experiência musical mais dinâmica e interativa.
 
 ## Recursos
 
