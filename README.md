@@ -3,7 +3,7 @@
 
 ## Introdução
 
-A inteligência artificial tem o potencial de transformar a forma como interagimos com a música e a tecnologia. Com o uso de controladores MIDI personalizados, como este projeto baseado em Arduino, podemos não apenas criar música, mas também aperfeiçoar nosso processo criativo. Este controlador MIDI permite que você interaja com sua DAW (Digital Audio Workstation) ou outros instrumentos, facilitando a criação musical em novas e empolgantes maneiras.
+A inteligência artificial tem o potencial de transformar e potêncializar a forma como interagimos com a música e a tecnologia, está aí uma oportunidade de levar um projeto como esse ao próximo nível. Com o uso de controladores MIDI personalizados, como este projeto baseado em Arduino, podemos não apenas criar música, mas também aperfeiçoar nosso processo criativo. Este controlador MIDI permite que você interaja com sua DAW (Digital Audio Workstation) ou outros instrumentos, facilitando a criação musical em novas e empolgantes maneiras.
 
 ## O que é este projeto?
 

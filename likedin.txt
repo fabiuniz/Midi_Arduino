@@ -1,0 +1,13 @@
+Apresentação do Projeto: Controlador MIDI com Arduino
+🎶✨ Estou animado para compartilhar um projeto que desenvolvi em 2021: um Controlador MIDI personalizado utilizando Arduino! Este projeto combina tecnologia e música de forma inovadora, permitindo interações criativas com softwares de produção musical e sintetizadores.
+
+🔧 O controlador foi construído com um Arduino Leonardo e um teclado matricial 7x8, possibilitando o envio de comandos MIDI de maneira intuitiva e eficiente. Além disso, o case foi elaborado artesanalmente em resina, refletindo um design único e funcional.
+
+🌟 Por que este projeto é especial?
+
+Proporcionou uma experiência prática de desenvolvimento em hardware e software.
+Combinou conceitos de eletrônica, programação e design, estimulando minha criatividade.
+Permitiu uma nova forma de expressão musical, abrindo portas para futuras inovações e colaborações.
+💡 Embora tenha sido concluído há algum tempo, continuo entusiasmado com as possibilidades que este controlador MIDI oferece. 
+
+O projeto no GitHub: [https://github.com/fabiuniz/Midi_Arduino.git]
