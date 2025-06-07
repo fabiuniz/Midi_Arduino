@@ -84,14 +84,14 @@ Aqui estão algumas imagens e vídeos do projeto, incluindo o case caseiro feito
 
 Se você quiser contribuir para este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request. Agradecemos pelo apoio e suas sugestões!
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
-## Contato
-
-Para dúvidas ou sugestões, entre em contato comigo através do GitHub.
-
 
 ### Considerações finais:
 - Sinta-se à vontade para ajustar o conteúdo para que se adequem melhor ao seu projeto e à sua visão.
+
+## 👨‍💻 Autor
+
+[Fabiano Rocha/Fabiuniz]
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
