@@ -1,3 +1,9 @@
+<!-- 
+  Tags: IoT
+  Label: 🎹 Controlador MIDI baseado em Arduino.
+  Description: Projeto de um controlador MIDI baseado em Arduino.
+  path_hook: hookfigma.hook4
+-->
 
 # Controlador MIDI com Arduino
 
